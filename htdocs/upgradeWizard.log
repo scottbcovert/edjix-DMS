@@ -1,0 +1,1003 @@
+Mon, 08 Jul 2013 22:39:36 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:39:36 -0700 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 08 Jul 2013 22:39:36 -0700 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 08 Jul 2013 22:39:36 -0700 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 08 Jul 2013 22:39:36 -0700 [UpgradeWizard] - finished!
+Mon, 08 Jul 2013 22:39:36 -0700 [UpgradeWizard] - resetting $_SESSION
+Mon, 08 Jul 2013 22:39:49 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:39:49 -0700 [UpgradeWizard] - [At systemCheck.php]
+Mon, 08 Jul 2013 22:39:49 -0700 [UpgradeWizard] - Starting file permission check...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Finished file permission check.
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Starting database permissions check...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking CREATE TABLE permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking INSERT INTO permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking UPDATE TABLE permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking SELECT permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking DELETE FROM permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking ALTER TABLE ADD COLUMN permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking ALTER TABLE CHANGE COLUMN permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking ALTER TABLE DROP COLUMN permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Checking DROP TABLE permissions...
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - No permissions errors found!
+Mon, 08 Jul 2013 22:40:01 -0700 [UpgradeWizard] - Finished database permissions check.
+Mon, 08 Jul 2013 22:40:09 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:40:09 -0700 [UpgradeWizard] - At upload.php
+Mon, 08 Jul 2013 22:40:09 -0700 [UpgradeWizard] - finding new files for upgrade
+Mon, 08 Jul 2013 22:40:09 -0700 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Mon, 08 Jul 2013 22:44:53 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:44:53 -0700 [UpgradeWizard] - At upload.php
+Mon, 08 Jul 2013 22:44:53 -0700 [UpgradeWizard] - finding new files for upgrade
+Mon, 08 Jul 2013 22:44:53 -0700 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - At upload.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - running upload
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - File uploaded to upload://SugarCE-Upgrade-6.5.x-to-6.5.14.zip
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - extracting manifest.
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - validating manifest.php file
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - copying manifest.php to final destination.
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - zip file moved to [SugarCE-Upgrade-6.5.x-to-6.5.14.zip]
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/getImage.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/SugarTheme.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:34 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/getImage.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/SugarTheme.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/SugarCache/SugarCache.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/upload_file.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/upload_file.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/utils/autoloader.php
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - finding new files for upgrade
+Mon, 08 Jul 2013 22:48:35 -0700 [UpgradeWizard] - *** UW using [ upload://upgrades/patch/SugarCE-Upgrade-6.5.x-to-6.5.14.zip ] as source for patch files.
+Mon, 08 Jul 2013 22:49:16 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:49:16 -0700 [UpgradeWizard] - at preflight.php
+Mon, 08 Jul 2013 22:49:16 -0700 [UpgradeWizard] - unzipping files in upgrade archive...
+Mon, 08 Jul 2013 22:49:16 -0700 [UpgradeWizard] - verifying md5 checksums for files...
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - md5 verification done.
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/database/MysqlManager.php
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/database/MssqlManager.php
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/database/DBManager.php
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/SugarCache/SugarCache.php
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - updating UpgradeWizard code: include/utils/autoloader.php
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - file preflight check passed successfully.
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - starting schema preflight check...
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - looking for schema script at: /opt/bitnami/apps/sugarcrm/htdocs/cache/upgrades/temp/lD7786/scripts/650_to_650_mysql.sql
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - no schema script found - all schema preflight skipped
+Mon, 08 Jul 2013 22:49:18 -0700 [UpgradeWizard] - schema preflight done.
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - [At commit.php]
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Setting error_reporting() to E_ERROR while running upgrade
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - backing up files to be overwritten...
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/wells.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/variables.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/utilities.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/type.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/tooltip.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/thumbnails.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/tables.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/sugarmobile.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/sugar.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/sprites.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/scaffolding.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/responsive.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/reset.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/progress-bars.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/popovers.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/pagination.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/pager.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/navs.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/navbar.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/modals.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/mixins.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/layouts.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/labels.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/hero-unit.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/grid.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/forms.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/font-awesome.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/dropdowns.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/component-animations.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/code.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/close.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/chosen.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/carousel.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/buttons.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/button-groups.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/breadcrumbs.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/bootstrap.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/bootstrap-mobile.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/alerts.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/less/accordion.less
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/images/IBMSmartCloud_image_inline.png
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/font/fontawesome-webfont.woff
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/font/fontawesome-webfont.ttf
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/font/fontawesome-webfont.svgz
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/font/fontawesome-webfont.svg
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/font/fontawesome-webfont.eot
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/default/css/bootstrap.css
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/Sugar5/tpls/header.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/Sugar5/tpls/_welcome.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/Sugar5/tpls/_head.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/themes/Sugar5/css/style.css
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/sugar_version.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/soap/SoapTypes.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/soap/SoapSugarUsers.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/soap/SoapPortalHelper.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/soap/SoapHelperFunctions.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/soap/SoapError.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/soap/SoapDeprecated.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v4_1/SugarWebServiceUtilv4_1.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v4_1/SugarWebServiceImplv4_1.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v4/SugarWebServiceUtilv4.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v4/SugarWebServiceImplv4.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v3_1/SugarWebServiceUtilv3_1.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v3_1/SugarWebServiceImplv3_1.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v3/SugarWebServiceUtilv3.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/v3/SugarWebServiceImplv3.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/example/example.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/core/webservice.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/core/SugarWebServiceImpl.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/core/SoapHelperWebService.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/service/core/REST/SugarRestJSON.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/robots.txt
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/vCals/vCal.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/vCals/HTTP_WebDAV_Server_vCal.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/iCals/iCal.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/iCals/HTTP_WebDAV_Server_iCal.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/views/view.wizard.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/views/view.edit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/tpls/QuickEditFooter.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/tpls/EditViewHeader.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/tpls/EditViewFooter.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/tpls/DetailViewFooter.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/reassignUserRecords.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/login.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/login.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/controller.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/SAMLAuthenticate/settings.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/SAMLAuthenticate/lib/xmlseclibs/xmlseclibs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/SAMLAuthenticate/index.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/SAMLAuthenticate/SAMLAuthenticateUser.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/SAMLAuthenticate/SAMLAuthenticate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/LDAPAuthenticate/LDAPAuthenticateUser.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/authentication/AuthenticationController.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/UserViewHelper.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/UserEditView.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/User.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/UpdateTourStatus.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/Save.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/Logout.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/Login.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/LoggedOut.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/LoggedOut.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/GeneratePassword.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/Changenewpassword.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Users/Authenticate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UserPreferences/UserPreference.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/uw_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/uw_ajax.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/systemCheck.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/silentUpgrade_step2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/silentUpgrade_step1.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/silentUpgrade.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/preflight.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/index.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/end.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/commit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/UpgradeWizard/UpgradeRemoval.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Tasks/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Tasks/metadata/subpanels/ForHistory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Tasks/metadata/additionalDetails.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Tasks/metadata/SearchFields.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Tasks/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Tasks/Task.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/TableDictionary.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/SugarFeed/tpls/AdminSettings.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Studio/wizards/RenameModules.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Studio/TabGroups/EditViewTabs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/SchedulersJobs/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/SchedulersJobs/SchedulersJob.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Schedulers/views/view.edit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Schedulers/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Schedulers/_AddJobsHere.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Schedulers/Scheduler.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Relationships/Relationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Prospects/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Prospects/tpls/QuickCreate.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Prospects/Prospect.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ProspectLists/ProspectList.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ProjectTask/views/view.list.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ProjectTask/ProjectTask.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Project/views/view.quickedit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Project/tpls/QuickEditHeader.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Project/tpls/QuickEditFooter.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Project/Project.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Opportunities/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Opportunities/Opportunity.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/OAuthTokens/OAuthToken.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Notes/Note.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MySettings/TabController.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/views/view.modulefields.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/views/view.listview.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/views/view.layoutview.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/tpls/layoutView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/tpls/editProperty.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/views/UndeployedSubpanelImplementation.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/views/ListLayoutMetaDataParser.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/views/GridLayoutMetaDataParser.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/views/DeployedMetaDataImplementation.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/views/DashletMetaDataParser.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/relationships/UndeployedRelationships.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/relationships/ActivitiesRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/relationships/AbstractRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/StandardField.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/parsers/ParserFactory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/javascript/studio2.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/javascript/SimpleList.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/javascript/ModuleBuilder.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/controller.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/Module/StudioModule.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/Module/DropDownBrowser.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/MB/ModuleBuilder.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/MB/MBPackage.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ModuleBuilder/MB/MBModule.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MergeRecords/Step3.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MergeRecords/Step2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MergeRecords/Step1.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MergeRecords/SaveMerge.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/views/view.listbytype.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/tpls/reminders.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/metadata/subpanels/ForHistory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/metadata/quickcreatedefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/metadata/editviewdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/metadata/detailviewdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/metadata/additionalDetails.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/jsclass_scheduler.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/duration_dependency.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/Save.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/MeetingFormBase.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/Meeting.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Meetings/Dashlets/MyMeetingsDashlet/MyMeetingsDashlet.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/merge_query.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/index.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/Step4.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/Step3.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/Step3.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/Step2.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/MailMerge/Step1.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/views/view.convertlead.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/tpls/QuickCreate.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/tpls/EditConvertLead.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/tpls/ConvertLeadHeader.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/tpls/ConvertLeadFooter.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/tpls/ConvertLead.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/metadata/editviewdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/metadata/convertdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Leads/Lead.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/InboundEmail/Save.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/InboundEmail/InboundEmail.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/InboundEmail/EditView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/InboundEmail/EditView.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/views/view.step3.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/views/view.last.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/views/view.dupcheck.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/views/view.confirm.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/sources/ImportFile.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/UsersLastImport.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/Importer.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/ImportDuplicateCheck.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Import/CsvAutoDetect.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/views/view.tour.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/views/view.list.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/tour.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/tour.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/tour.css
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/quicksearchQuery.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/index.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/action_view_map.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/UnifiedSearchAdvanced.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/QuickSearch.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/Dashlets/iFrameDashlet/iFrameDashlet.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/Dashlets/iFrameDashlet/iFrameDashlet.meta.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/Dashlets/SugarNewsDashlet/SugarNewsDashlet.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/Dashlets/ChartsDashlet/ChartsDashlet.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Home/About.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Employees/controller.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Employees/EmployeesSearchForm.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Employees/Employee.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/views/view.quickcreate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/javascript/grid.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/javascript/composeEmailTemplate.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/javascript/complexLayout.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/javascript/ajax.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/javascript/EmailUICompose.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/javascript/EmailUI.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/javascript/Email.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/Popup.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/EmailUIAjax.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/EmailUI.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/Email.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/EditView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/DetailView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/Delete.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/Compose.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Emails/Check.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailTemplates/PopupDocumentsCampaignTemplate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailTemplates/PopupDocumentsCampaignTemplate.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailTemplates/EmailTemplateFormBase.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailTemplates/EmailTemplate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailTemplates/AttachFiles.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailMarketing/EditView.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailMan/views/view.config.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailMan/tpls/config.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailMan/EmailManDelivery.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EmailMan/EmailMan.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EAPM/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/EAPM/controller.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/templates/Fields/TemplateRelatedTextField.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/templates/Fields/TemplateInt.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/templates/Fields/TemplateField.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/templates/Fields/TemplateDatetimecombo.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/templates/Fields/Forms/enum.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/templates/Fields/Forms/currency.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/templates/Fields/Forms/coreBottom.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/UpgradeFields.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DynamicFields/DynamicField.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Documents/views/view.extdoc.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Documents/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Documents/metadata/SearchFields.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Documents/Document.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Documents/Delete.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DocumentRevisions/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DocumentRevisions/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/DocumentRevisions/DocumentRevision.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Currencies/Currency.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/views/view.edit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/tpls/QuickCreate.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/metadata/quickcreatedefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/Popup_picker.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/ContactFormBase.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/Contact.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Contacts/AcceptDecline.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Connectors/views/view.sourceproperties.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Connectors/connectors/sources/ext/rest/linkedin/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Connectors/connectors/sources/ext/rest/linkedin/config.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Connectors/connectors/sources/ext/rest/insideview/tpls/InsideView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls/default.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/views/view.edit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/tpls/adminwizard.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/tpls/EditView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/UploadFileCheck.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/LogView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/Forms.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Configurator/Configurator.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Charts/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Charts/code/predefined_charts.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Charts/chartdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Charts/DynamicAction.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Charts/Dashlets/MyPipelineBySalesStageDashlet/MyPipelineBySalesStageDashlet.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Cases/metadata/popupdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Cases/metadata/detailviewdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Cases/Case.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/views/view.detail.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/tpls/campaign-inactive.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/metadata/detailviewdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WizardNewsletter.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WizardMarketing.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WizardHome.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WizardEmailSetupSave.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WizardEmailSetup.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WizardEmailSetup.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WebToLeadFormSave.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WebToLeadDownloadForm.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/WebToLeadCapture.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/TrackDetailView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/Schedule.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/QueueCampaign.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/ProcessBouncedEmails.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/Dashlets/TopCampaignsDashlet/TopCampaignsDashlet.meta.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/Charts.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Campaigns/Campaign.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/CampaignLog/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/CampaignLog/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/metadata/subpanels/ForHistory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/metadata/editviewdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/metadata/detailviewdefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/metadata/additionalDetails.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/Save.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/CallHelper.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/CallFormBase.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calls/Call.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/views/view.savesettings.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/tpls/shared_users.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/tpls/settings.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/tpls/main.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/tpls/form.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/index.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/CalendarUtils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/CalendarGrid.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/CalendarDisplay.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/CalendarActivity.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/Calendar.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/Cal.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Calendar/Cal.css
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Bugs/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Bugs/Bug.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Audit/Audit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/views/view.backups.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/updater_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/templates/GlobalSearchSettings.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/metadata/adminpaneldefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/controller.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/action_view_map.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/UpgradeWizard_prepare.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/UpgradeWizard_commit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/UpgradeWizard.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/SupportPortal.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/SugarSpriteBuilder.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/RebuildConfig.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/PasswordManager.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/PasswordManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/Locale.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/DisplayWarnings.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/DiagnosticRun.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/DiagnosticDownload.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/DiagnosticDelete.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/Diagnostic.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/Async.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Administration/Administration.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Activities/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Activities/SubPanelViewContacts.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Activities/SubPanelView.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Activities/Popup_picker.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Activities/EmailReminder.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Accounts/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Accounts/metadata/subpaneldefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/Accounts/Account.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ACLRoles/DetailView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ACLRoles/ACLRole.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ACLActions/ACLAction.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/modules/ACL/ACLController.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/metadata/emails_beansMetaData.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/metadata/audit_templateMetaData.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/modules/Users/login.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/modules/Users/UserEditView.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/modules/Meetings/jsclass_scheduler.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/modules/Meetings/duration_dependency.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/modules/Home/tour.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/modules/Calendar/Cal.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/tour.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/sugar_3.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/report_additionals.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/quicksearch.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/quickCompose.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/popup_helper.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/jsclass_async.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/javascript/ajaxUI.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/SugarFields/Fields/Datetimecombo/Datetimecombo.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/SugarEmailAddress/SugarEmailAddress.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/SugarCharts/Jit/js/sugarCharts.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/SugarCharts/Jit/js/Jit/jit.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/SubPanel/SubPanelTiles.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/src_files/include/EditView/Panels.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/jssource/JSGroupings.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/json_server.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/install/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/install/install_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/install/confirmSettings.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/install/checkDBSettings.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/vCard.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/utils/sugar_file_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/utils/security_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/utils/layout_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/utils/file_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/utils/autoloader.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/utils/LogicHook.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/upload_file.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/tabConfig.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-zh_cn.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-zh.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-tr.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-se.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-ru.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-ro.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-pl.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-no.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-nl.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-ja.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-it.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-hu.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-fr.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-fo.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-fi.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-et.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-es.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-dk.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-de.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-cz.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-ch.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-ca.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-br.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/language/phpmailer.lang-ar.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/extras/htmlfilter.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/class.smtp.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/class.phpmailer.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/README
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/phpmailer/LICENSE
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/php-sql-parser.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/nusoap/nusoap.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/modules.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/language/en_us.notify_template.html
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/tour.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/tiny_mce/plugins/paste/editor_plugin_src.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/tiny_mce/plugins/paste/editor_plugin.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/sugar_3.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/report_additionals.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/quicksearch.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/quickCompose.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/popup_helper.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/jsclass_async.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/jsAlerts.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/jquery/jquery.sugarMenu.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/jquery/jquery.popoverext.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/jquery/jquery.hoverIntent.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/jquery/jquery.effects.custombounce.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/jquery/bootstrap.min.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/javascript.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/getYUIComboFile.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/javascript/ajaxUI.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/images/tour/profile_link.png
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/images/tour/arrow_ie.png
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/images/tour/arrow.png
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/images/tour/FirstFrame.png
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/globalControlLinks.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopSelectUsersButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopSelectContactsButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopSelectButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopCreateTaskButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopCreateCampaignLogEntryButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopComposeEmailButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelTopArchiveEmailButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelRemoveButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelIcon.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelEditButton.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetSubPanelDetailViewLink.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetReportField.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldtext.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldrelate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldname.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldmultienum.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldlong.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldenum.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFielddatetime.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFielddate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldcurrency_id.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldcurrency.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidgetFieldbool.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/SugarWidgets/SugarWidget.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/Save2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/generic/LayoutManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/formbase.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/externalAPI/ExternalAPIFactory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/export_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/entryPoint.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/database/MysqlManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/database/MssqlManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/database/DBManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/connectors/utils/ConnectorUtils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/connectors/utils/ConnectorHtmlHelperFactory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/connectors/utils/ConnectorHtmlHelper.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/clean.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/VarDefHandler/vardef_meta_arrays.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/VarDefHandler/VarDefHandler.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/TimeDate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/TemplateHandler/TemplateHandler.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Sugarpdf/Sugarpdf.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Sugar_Smarty.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarXHprof/xhprof_lib/utils/xhprof_runs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarXHprof/xhprof_lib/utils/xhprof_lib.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarXHprof/xhprof_lib/utils/callgraph_utils.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarXHprof/xhprof_lib/display/xhprof.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarXHprof/xhprof_lib/display/typeahead_common.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarXHprof/SugarXHprof.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarTheme/getImage.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarTheme/SugarTheme.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarQueue/SugarJobQueue.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarQueue/SugarCronJobs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarPHPMailer.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/sale/metadata/subpanels/default.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/sale/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/person/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/person/metadata/subpanels/default.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/person/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/person/Person.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/issue/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/issue/metadata/subpanels/default.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/issue/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/file/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/file/metadata/subpanels/default.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/file/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/company/vardefs.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/company/metadata/subpanels/default.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/company/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/company/Company.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/basic/metadata/subpanels/default.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/templates/basic/language/en_us.lang.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/VardefManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarObjects/LanguageManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarLogger/LoggerManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFolders/SugarFolders.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Text/DetailView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Relate/SugarFieldRelate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Relate/DetailView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Parent/SearchView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Parent/EditView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Link/EditView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Int/RangeSearchForm.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/File/SugarFieldFile.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/File/SearchView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Datetimecombo/SugarFieldDatetimecombo.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Datetimecombo/RangeSearchForm.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Datetimecombo/Datetimecombo.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Datetime/SugarFieldDatetime.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Currency/SugarFieldCurrency.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarFields/Fields/Base/SugarFieldBase.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarEmailAddress/SugarEmailAddress.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarEmailAddress/SugarEmailAddress.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarDateTime.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarCharts/SugarChart.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarCharts/JsChart.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarCharts/Jit/js/sugarCharts.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarCharts/Jit/js/Jit/jit.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarCharts/Jit/JitReports.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SugarCache/SugarCache.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SubPanel/SubPanelViewer.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SubPanel/SubPanelTiles.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SubPanel/SubPanelTiles.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SubPanel/SubPanelDefinitions.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SubPanel/SubPanel.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/plugins/modifier.json.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/plugins/function.sugar_replace_vars.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/plugins/function.sugar_phone.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/plugins/function.sugar_number_format.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/plugins/function.sugar_menu.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/plugins/function.sugar_button.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/plugins/function.sugar_action_menu.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Smarty/Smarty_Compiler.class.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SearchForm/tpls/SearchFormGenericAdvanced.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SearchForm/SearchForm2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/SearchForm/SearchForm.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Popups/tpls/PopupGeneric.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Popups/PopupSmarty.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/OutboundEmail/OutboundEmail.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MySugar/MySugar.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MassUpdate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/views/view.popup.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/views/view.list.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/views/view.importvcardsave.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/views/view.importvcard.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/views/view.edit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/views/view.detail.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/tpls/Importvcard.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/View/SugarView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/SugarApplication.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/MVC/Controller/entry_point_registry.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Localization/Localization.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/ListView/ListViewSmarty.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/ListView/ListViewPagination.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/ListView/ListViewGeneric.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/ListView/ListViewDisplay.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/ListView/ListViewData.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/ListView/ListView.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/HTMLPurifier/HTMLPurifier.standalone.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/GroupedTabs/GroupedTabStructure.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/header.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/SugarVCR.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/SugarVCR.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/SubpanelQuickEdit.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/SubpanelQuickCreate.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/Panels.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/EditView2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/EditView/EditView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/DetailView/header.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/DetailView/DetailView2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/DetailView/DetailView.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Dashlets/DashletGenericChart.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Dashlets/DashletGeneric.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/include/Dashlets/Dashlet.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/get_url.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/export.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/download.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/SugarBean.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/SugarRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/RelationshipFactory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/One2OneRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/One2OneBeanRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/One2MRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/One2MBeanRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/M2MRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Relationships/EmailAddressRelationship.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/Link2.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/data/BeanFactory.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/crossdomain.xml
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cron.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cache/include/javascript/sugar_grp_quickcomp.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cache/include/javascript/sugar_grp_jsolait.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cache/include/javascript/sugar_grp_emails.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cache/include/javascript/sugar_grp1_yui.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cache/include/javascript/sugar_grp1_jquery.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cache/include/javascript/sugar_grp1.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/cache/include/javascript/sugar_field_grp.js
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/Zend/Oauth/Provider.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/ModuleInstall/extensions.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/ModuleInstall/PackageManager/PackageManagerDisplay.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/ModuleInstall/PackageManager/PackageManager.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/ModuleInstall/ModuleScanner.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Backing up file: /opt/bitnami/apps/sugarcrm/htdocs/ModuleInstall/ModuleInstaller.php
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - file backup done.
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Running pre_install()...
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - pre_install() done.
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Commit step finished SugarMerge run with the following results:Array
+(
+    [Connectors] => Array
+        (
+        )
+
+)
+
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Starting file copy process...
+Mon, 08 Jul 2013 22:49:32 -0700 [UpgradeWizard] - Skipping "sugar_version.php" - file copy will occur at end of successful upgrade
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - File copy done.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Starting post_install()...
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Entered post_install function.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Upgrading the database from 6.5.12 to version 6.5.14
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Running SQL file /opt/bitnami/apps/sugarcrm/htdocs/cache/upgrades/temp/lD7786/scripts/65x_to_65x_mysql.sql
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - *** Skipping schema upgrade for point release.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Applying .htaccess update security fix.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Rebuilding SugarLogic Cache
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Rebuilding JS Langauages
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Rebuilding Dashlets
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - At updateVersions()... updating config table and sugar_version.php.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - sugar_version.php successfully updated!
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Deleting old DB version info from config table.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Inserting updated version info into config table.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - updateVersions() complete.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Begining to upgrade group inbound email accounts
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Finished upgrade group inbound email accounts
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Found 0 escaped emails. Ignoring for now
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Found 0 emails whose caps field does not match.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - ------------------------------------------------------------------
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Determining which email addresses are duplicated within the system
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Repairing duplicate email address relationships and marking duplicates as deleted
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Performing UWrebuild()...
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Registering rebuild record: DELETE FROM versions WHERE name='Rebuild Extensions'
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Rebuild done.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - Registering rebuild record in versions table: INSERT INTO versions (id, deleted, date_entered, date_modified, modified_user_id, created_by, name, file_version, db_version) VALUES ('ecf10be7-82d9-dabe-a4ff-51dba4290bec', '0', '2013-07-09 05:49:33', '2013-07-09 05:49:33', '1', '1', 'Rebuild Extensions', '4.0.0', '4.0.0')
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - UWrebuild() done.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - post_install() done.
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - check if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - finished check to see if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - running deleteChance() function
+Mon, 08 Jul 2013 22:49:33 -0700 [UpgradeWizard] - running deleteCache() function
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - call addNewSystemTabsFromUpgrade(upload://upgrades/patch/SugarCE-Upgrade-6.5.x-to-6.5.14-restore)
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - check to see if new modules exist
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - new modules to add are array (
+)
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - module tabs updated
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - finished addNewSystemTabsFromUpgrade
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - Registering upgrade with UpgradeHistory
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - Resetting error_reporting() to system level.
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - Rebuilding style js file: cache/themes/Sugar5/js/style-min.js
+Mon, 08 Jul 2013 22:49:34 -0700 [UpgradeWizard] - Rebuilding language cache
+Mon, 08 Jul 2013 22:49:40 -0700 [UpgradeWizard] - setting session variables...
+Mon, 08 Jul 2013 22:49:44 -0700 [UpgradeWizard] - [At end.php]
+Mon, 08 Jul 2013 22:49:44 -0700 [UpgradeWizard] -  Writing FTS hooks
+Mon, 08 Jul 2013 22:49:44 -0700 [UpgradeWizard] - About to repair the database.
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Running sql:/* Table : cron_remove_documents */
+/* MISSING TABLE: cron_remove_documents */
+CREATE TABLE cron_remove_documents (id varchar(36)  NOT NULL ,bean_id varchar(36)  NULL ,module varchar(25)  NULL ,date_modified datetime  NULL  , PRIMARY KEY (id),   KEY idx_cron_remove_document_bean_id (bean_id),   KEY idx_cron_remove_document_stamp (date_modified)) CHARACTER SET utf8 COLLATE utf8_general_ci
+
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - database repaired
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] -  Start Rebuilding the config file again
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] -  Finish Rebuilding the config file again
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Begin upgrade_connectors
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - End upgrade_connectors
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval62x
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Files will be backed up to custom/backup
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval64x
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Files will be backed up to custom/backup
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval65x
+Mon, 08 Jul 2013 22:49:48 -0700 [UpgradeWizard] - Files will be backed up to custom/backup
+Mon, 08 Jul 2013 22:49:57 -0700 [UpgradeWizard] - Start Updating the license 
+Mon, 08 Jul 2013 22:49:58 -0700 [UpgradeWizard] - End Updating the license 
+Mon, 08 Jul 2013 22:49:58 -0700 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Mon, 08 Jul 2013 22:49:58 -0700 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 08 Jul 2013 22:50:01 -0700 [UpgradeWizard] - finished!
+Mon, 08 Jul 2013 22:50:01 -0700 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Mon, 08 Jul 2013 22:50:01 -0700 [UpgradeWizard] - resetting $_SESSION
+Tue, 09 Jul 2013 04:17:21 -0700 [UpgradeWizard] - setting session variables...
+Tue, 09 Jul 2013 04:17:21 -0700 [UpgradeWizard] - -----------------------------------------------------------------------------
+Tue, 09 Jul 2013 04:17:21 -0700 [UpgradeWizard] - Upgrade started. At start.php
+Tue, 09 Jul 2013 04:17:21 -0700 [UpgradeWizard] - at unlinkUWTempFiles()
+Tue, 09 Jul 2013 04:17:21 -0700 [UpgradeWizard] - finished!
+Tue, 09 Jul 2013 04:17:21 -0700 [UpgradeWizard] - resetting $_SESSION
