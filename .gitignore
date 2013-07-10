@@ -1,24 +1,24 @@
 ## First part from https://github.com/github/gitignore/blob/master/SugarCRM.gitignore
 # Ignore custom .htaccess stuff.
-###/htdocs/.htaccess
+/htdocs/.htaccess
 # Ignore the cache directory completely. *ATTENTION!* This will break things!
-###/htdocs/cache/*
+/htdocs/cache/*
 # Ignore some files and directories from the custom directory.
-###/htdocs/custom/history/*
-###/htdocs/custom/modulebuilder/*
-###/htdocs/custom/working/*
-###/htdocs/custom/modules/*/Ext/
-###/htdocs/custom/application/Ext/*
+/htdocs/custom/history/*
+/htdocs/custom/modulebuilder/*
+/htdocs/custom/working/*
+/htdocs/custom/modules/*/Ext/
+/htdocs/custom/application/Ext/*
 # Custom configuration should also be ignored.
-###/htdocs/config.php
-###/htdocs/config_override.php
+/htdocs/config.php
+/htdocs/config_override.php
 # The silent upgrade scripts aren't needed.
-###silentUpgrade*.php
+/htdocs/silentUpgrade*.php
 # Logs files can safely be ignored.
-###/htdocs/*.log
+/htdocs/*.log
 # The new upload directories (since 6.4).
-###/htdocs/upload/*
-###/htdocs/upload_backup/*
+/htdocs/upload/*
+/htdocs/upload_backup/*
 ## IDE specific items
 # Eclipse
 *.pydevproject
