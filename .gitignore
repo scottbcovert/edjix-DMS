@@ -1,0 +1,59 @@
+## First part from https://github.com/github/gitignore/blob/master/SugarCRM.gitignore
+# Ignore custom .htaccess stuff.
+/htdocs/.htaccess
+# Ignore the cache directory completely. *ATTENTION!* This will break things!
+/htdocs/cache/*
+# Ignore some files and directories from the custom directory.
+/htdocs/custom/history/*
+/htdocs/custom/modulebuilder/*
+/htdocs/custom/working/*
+/htdocs/custom/modules/*/Ext/
+/htdocs/custom/application/Ext/*
+# Custom configuration should also be ignored.
+/htdocs/config.php
+/htdocs/config_override.php
+# The silent upgrade scripts aren't needed.
+silentUpgrade*.php
+# Logs files can safely be ignored.
+/htdocs/*.log
+# The new upload directories (since 6.4).
+/htdocs/upload/*
+/htdocs/upload_backup/*
+## IDE specific items
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+# NetBeans
+nbproject/
+# Vim
+.*.sw[a-z]
+*.un~
+Session.vim
+# Windows
+Thumbs.db
+Desktop.ini
