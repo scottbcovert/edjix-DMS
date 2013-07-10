@@ -4,11 +4,11 @@
 # Ignore the cache directory completely. *ATTENTION!* This will break things!
 /htdocs/cache/*
 # Ignore some files and directories from the custom directory.
-/htdocs/custom/history/*
-/htdocs/custom/modulebuilder/*
-/htdocs/custom/working/*
-/htdocs/custom/modules/*/Ext/
-/htdocs/custom/application/Ext/*
+###/htdocs/custom/history/*
+###/htdocs/custom/modulebuilder/*
+###/htdocs/custom/working/*
+###/htdocs/custom/modules/*/Ext/
+###/htdocs/custom/application/Ext/*
 # Custom configuration should also be ignored.
 /htdocs/config.php
 /htdocs/config_override.php
