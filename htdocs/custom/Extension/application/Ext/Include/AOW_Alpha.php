@@ -1,15 +1,5 @@
 <?php 
  //WARNING: The contents of this file are auto-generated
-
- 
- //WARNING: The contents of this file are auto-generated
-$beanList['dmx_Boats'] = 'dmx_Boats';
-$beanFiles['dmx_Boats'] = 'modules/dmx_Boats/dmx_Boats.php';
-$moduleList[] = 'dmx_Boats';
-
-
- 
- //WARNING: The contents of this file are auto-generated
 $beanList['AOW_Actions'] = 'AOW_Action';
 $beanFiles['AOW_Action'] = 'modules/AOW_Actions/AOW_Action.php';
 $modules_exempt_from_availability_check['AOW_Actions'] = 'AOW_Actions';
@@ -28,6 +18,5 @@ $beanFiles['AOW_Condition'] = 'modules/AOW_Conditions/AOW_Condition.php';
 $modules_exempt_from_availability_check['AOW_Conditions'] = 'AOW_Conditions';
 $report_include_modules['AOW_Conditions'] = 'AOW_Conditions';
 $modInvisList[] = 'AOW_Conditions';
-
 
 ?>
